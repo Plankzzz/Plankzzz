@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Plankzzz, a student majoring in Automation
-- 👀 I’m interested in C++ amd Python
+- 👀 I’m interested in C++ and Python
 - 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
