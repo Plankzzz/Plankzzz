@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Plankzzz, a student majoring in Automation
-- 👀 I’m interested in C++ and Python
-- 🌱 I’m currently learning C and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Plankzzz, a postgraduate researching control theory, especially game control.
+- 👀 I’m interested in playing League of Legends.
+- 🌱 I’m currently learning Python and keeping pace with the trend of AI development.
 
 <!---
 Plankzzz/Plankzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
